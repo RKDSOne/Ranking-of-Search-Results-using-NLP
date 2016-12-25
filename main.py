@@ -52,7 +52,7 @@ X =  tfv.transform(traindata)
 
 X_np = X.toarray()
 
-#print X_np.shape
+
 
 
 
